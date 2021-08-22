@@ -1,0 +1,23 @@
+{
+  "name": "calvinchoy",
+  "version": "1.0.0",
+  "description": "<!-- **calvinchoy/calvinchoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx eleventy --serve --port=8083"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinchoy/calvinchoy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinchoy/calvinchoy/issues"
+  },
+  "homepage": "https://github.com/calvinchoy/calvinchoy#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
