@@ -2,7 +2,7 @@
 
 I'm an Engineering Manager based in Amsterdam, the Netherlands. I write about engineering, leadership, and developer tooling at [notes.calvinchoy.com](https://notes.calvinchoy.com). 
 
-In love improving my terminal setup and developer experience — diving into dotfile configs, cli tools, and optimizing workflows that were already fast enough. 
+I love improving my terminal setup and developer experience — diving into dotfile configs, cli tools, and optimizing workflows that were already fast enough. 
 
 When time allows, I also like to deepdive on concepts through books and resources on system design, software architecture, and engineering management, building the foundations that support my work. 
 
